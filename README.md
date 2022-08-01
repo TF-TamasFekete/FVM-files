@@ -1,2 +1,2 @@
 # FVM-VERSIONS
-Felelsz Vagy Mersz 
+Felelsz Vagy Mersz jelenlegi és korábbi telepítői.
